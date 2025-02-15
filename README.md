@@ -1,2 +1,2 @@
 # SE_Project
-se progect
+se project
